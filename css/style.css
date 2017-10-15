@@ -4,3 +4,11 @@ body {
     margin: 30px;
     color: white;
 }
+h1 {
+    color: yellow;
+    font-size: 45px;
+}
+.sub-judul {
+    color: #4eff2b;    
+    font-size: 25px;
+}
