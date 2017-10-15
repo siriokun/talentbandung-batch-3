@@ -12,3 +12,13 @@ h1 {
     color: #4eff2b;    
     font-size: 25px;
 }
+a {
+    color: #fff;
+}
+.menu {
+    padding: 0;
+}
+.menu li {
+    display: inline-block;
+    margin: 0 15px;
+}
