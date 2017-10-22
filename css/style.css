@@ -29,3 +29,10 @@ td {
     padding: 10px;
     min-width: 200px;
 }
+.bungkus {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.foto img {
+    margin: 10px;
+}
