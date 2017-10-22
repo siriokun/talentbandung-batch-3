@@ -22,3 +22,10 @@ a {
     display: inline-block;
     margin: 0 15px;
 }
+table, td {
+    border: 1px solid white;
+}
+td {
+    padding: 10px;
+    min-width: 200px;
+}
